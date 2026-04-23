@@ -51,7 +51,7 @@ This project follows **modular programming** and simulates basic real-world libr
 - Stored with student details
 
 ### 🔹 Return System
-- Calculates how many days book was used
+- Calculates how many days bo was used
 - Applies **progressive fine**:
   - Day 1 → ₹10  
   - Day 2 → ₹20  
@@ -64,3 +64,6 @@ This project follows **modular programming** and simulates basic real-world libr
 
 1. Open terminal in project folder  
 2. Run:
+3. ```
+   python main.py
+   ```
