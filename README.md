@@ -28,12 +28,12 @@ This project follows **modular programming** and simulates basic real-world libr
 
 ## 📁 Project Structure
 
-library_project/
+'''library_project/
 │
 ├── main.py
 ├── database.py
 ├── operations.py
-
+'''
 
 ---
 
