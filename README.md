@@ -32,7 +32,7 @@ This project follows **modular programming** and simulates basic real-world libr
 │
 ├── main.py
 ├── database.py
-├── operations.py
+├── ops.py(operations)
 ```
 
 ---
